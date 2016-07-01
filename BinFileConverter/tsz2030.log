@@ -1,0 +1,103 @@
+==================================================================
+ Convert (BIN to CSV)                         Mon Nov 25 12:14:04 2013
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : tsz2030.bin
+The dictionary file   : tsz2030.dcb
+Total number of fields: 85
+Total field bytes     : 624
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                               ID     I     4             1
+  2                           COUNTY     C    16             5
+  3                              TSZ     I     4            21
+  4                  Special_Event_a     R     8           553
+  5                 EventTransitBias     R     8           597
+  6                   TripLengthBias     R     8           605
+  7                   Orig_DriveTime     R     8            25
+  8                    New_DriveTime     R     8            33
+  9                  Time_Difference     R     8            41
+ 10                         OBJECTID     I     4            49
+ 11                           ITSZ05     I     4            53
+ 12                           DIST05     C     7            57
+ 13                            TSZ00     C     5            64
+ 14                      COUNTY_CODE     C     3            69
+ 15                          X_COORD     R     8            72
+ 16                            minCT     R     8            80
+ 17                        Land_Area     R     8            88
+ 18                       Model_Area     R     8            96
+ 19                             DART     I     4           104
+ 20                             FWTA     I     4           108
+ 21                              MPA     I     4           112
+ 22                         External     I     4           116
+ 23                            TSZ05     C     5           120
+ 24                            ACRES     R     8           125
+ 25                          Y_COORD     R     8           133
+ 26                            maxCT     R     8           141
+ 27                            JUR57     I     4           149
+ 28                           DIST66     I     4           153
+ 29                              TAD     I     4           157
+ 30                       Total_Area     R     8           161
+ 31                            TRACT     C    16           169
+ 32                           DIst30     I     4           185
+ 33                        Dist Name     C    30           189
+ 34                        Districts     I     4           219
+ 35                    District_Name     C    16           223
+ 36                            TAP00     I     4           239
+ 37                              LEN     R     8           243
+ 38                       SHAPE_area     R     8           251
+ 39                        SHAPE_len     R     8           259
+ 40                              RAA     I     4           267
+ 41                             City     C    30           271
+ 42                       Water_Area     R     8           301
+ 43                             DCTA     I     4           309
+ 44                          Airport     C    16           313
+ 45                         AREATP07     I     4           329
+ 46                           ATZONE     I     4           333
+ 47                          SHUTTLE     I     4           337
+ 48                      Hotel_Rooms     I     4           341
+ 49                       Hotel_Flag     I     4           345
+ 50                          Room_VL     I     4           349
+ 51                           Room_L     I     4           353
+ 52                           Room_M     I     4           357
+ 53                           Room_S     I     4           361
+ 54            Hotel_Occupancy_Share     R     8           365
+ 55                  Business_meal_p     R     8           373
+ 56              Business_business_p     R     8           381
+ 57                 Business_other_p     R     8           389
+ 58              Business_nonhotel_p     R     8           397
+ 59                   Leisure_meal_p     R     8           405
+ 60               Leisure_business_p     R     8           413
+ 61                  Leisure_other_p     R     8           421
+ 62               Leisure_nonhotel_p     R     8           429
+ 63                  Business_meal_a     R     8           437
+ 64              Business_business_a     R     8           445
+ 65                 Business_other_a     R     8           453
+ 66              Business_nonhotel_a     R     8           461
+ 67                   Leisure_meal_a     R     8           469
+ 68               Leisure_business_a     R     8           477
+ 69                  Leisure_other_a     R     8           485
+ 70               Leisure_nonhotel_a     R     8           493
+ 71                          SERVICE     I     4           501
+ 72                       business_a     R     8           505
+ 73                        leisure_a     R     8           513
+ 74                          Total_a     R     8           521
+ 75                      NonCBD_Mask     R     8           529
+ 76                 Total_Business_p     R     8           537
+ 77                  Total_Leisure_p     R     8           545
+ 78                  Special_Event_p     R     8           561
+ 79               Special_Event_PKOP     I     4           569
+ 80                NormalParkingCost     R     8           573
+ 81         Backup_NormalParkingCost     R     8           581
+ 82                 EventParkingCost     R     8           589
+ 83                       Dallas_CBD     I     4           613
+ 84                        Final_Org     I     4           617
+ 85                 Median_HH_Income     I     4           621
+==================================================================
+==================================================================
+Number of fields    :85
+Total size          :3360864
+Combined field size :624
+Number of Lines     :5386
+==================================================================

@@ -1,0 +1,48 @@
+==================================================================
+ Convert (BIN to CSV)                         Fri Dec 13 11:33:39 2013
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : SE_Data_2010.bin
+The dictionary file   : SE_Data_2010.dcb
+Total number of fields: 30
+Total field bytes     : 145
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                               ID     I     4             1
+  2                             Area     F     4             5
+  3                              TAZ     C    13             9
+  4                         ModelTAZ     I     4            22
+  5                             NAME     C     8            26
+  6                         AreaType     I     4            34
+  7                              POP     I     4            38
+  8                               HH     I     4            42
+  9                          Workers     I     4            46
+ 10                           MedInc     R     8            50
+ 11                         Vehicles     I     4            58
+ 12                        K12Enroll     I     4            62
+ 13                       UnivEnroll     I     4            66
+ 14                      UnivStudRes     I     4            70
+ 15                          RVSites     I     4            74
+ 16                            Hotel     I     4            78
+ 17                          Camping     I     4            82
+ 18                              BnB     I     4            86
+ 19                            Motel     I     4            90
+ 20                           Cabins     I     4            94
+ 21                           Resort     I     4            98
+ 22                              Ind     I     4           102
+ 23                              Ret     I     4           106
+ 24                            HTRet     I     4           110
+ 25                              Off     I     4           114
+ 26                              Ser     I     4           118
+ 27                           TotEmp     I     4           122
+ 28                          Density     R     8           126
+ 29                          EXTAWDT     I     4           134
+ 30                         PCTTRUCK     R     8           138
+==================================================================
+==================================================================
+Number of fields    :30
+Total size          :93525
+Combined field size :145
+Number of Lines     :645
+==================================================================

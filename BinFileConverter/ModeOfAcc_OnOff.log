@@ -1,0 +1,59 @@
+==================================================================
+ Convert (BIN to CSV)                         Tue Apr 14 15:31:10 2015
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : ModeOfAcc_OnOff.bin
+The dictionary file   : ModeOfAcc_OnOff.DCB
+Total number of fields: 41
+Total field bytes     : 366
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                           Agency     C    10             1
+  2                          TRROUTE     C    10            11
+  3                   Agency_TRROUTE     C    20            21
+  4                     STATION_NAME     C    50            41
+  5                          MODE_ID     I     4            91
+  6                             Line     I     4            95
+  7                         Route_ID     I     4            99
+  8                          Stop_ID     I     4           103
+  9                           TCNODE     I     4           107
+ 10                          WALK_ON     R     8           111
+ 11                         DRIVE_ON     R     8           119
+ 12                        MODE30_ON     R     8           127
+ 13                        MODE31_ON     R     8           135
+ 14                        MODE40_ON     R     8           143
+ 15                        MODE50_ON     R     8           151
+ 16                        MODE51_ON     R     8           159
+ 17                        MODE52_ON     R     8           167
+ 18                        MODE60_ON     R     8           175
+ 19                        MODE70_ON     R     8           183
+ 20                        MODE73_ON     R     8           191
+ 21                        MODE74_ON     R     8           199
+ 22                        MODE80_ON     R     8           207
+ 23                        MODE81_ON     R     8           215
+ 24                        MODE82_ON     R     8           223
+ 25                         Total_ON     R     8           231
+ 26                         WALK_OFF     R     8           239
+ 27                        DRIVE_OFF     R     8           247
+ 28                       MODE30_OFF     R     8           255
+ 29                       MODE31_OFF     R     8           263
+ 30                       MODE40_OFF     R     8           271
+ 31                       MODE50_OFF     R     8           279
+ 32                       MODE51_OFF     R     8           287
+ 33                       MODE52_OFF     R     8           295
+ 34                       MODE60_OFF     R     8           303
+ 35                       MODE70_OFF     R     8           311
+ 36                       MODE73_OFF     R     8           319
+ 37                       MODE74_OFF     R     8           327
+ 38                       MODE80_OFF     R     8           335
+ 39                       MODE81_OFF     R     8           343
+ 40                       MODE82_OFF     R     8           351
+ 41                        Total_OFF     R     8           359
+==================================================================
+==================================================================
+Number of fields    :41
+Total size          :3124908
+Combined field size :366
+Number of Lines     :8538
+==================================================================

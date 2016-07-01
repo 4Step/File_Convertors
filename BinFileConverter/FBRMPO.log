@@ -1,0 +1,40 @@
+==================================================================
+ Convert (BIN to CSV)                         Mon Nov 25 13:46:32 2013
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : FBRMPO.bin
+The dictionary file   : FBRMPO.dcb
+Total number of fields: 22
+Total field bytes     : 171
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                               ID     I     4             1
+  2                      Street Name     C    36             5
+  3                           COUNTY     C    16            41
+  4                       Screenline     S     2            57
+  5                      TIP Project     C     9            59
+  6                 Count Station ID     C     7            68
+  7                 2005 Count Total     R     8            75
+  8                    AB 2005 Count     R     8            83
+  9                    BA 2005 Count     R     8            91
+ 10                       2005 Count     R     8            99
+ 11                        FUN_CLASS     I     4           107
+ 12                         CTP_Type     C    27           111
+ 13                           CTP_CD     I     4           138
+ 14                       TERRAIN_CD     I     4           142
+ 15                       DIVIDED_CD     S     2           146
+ 16                        SPD_LIMIT     S     2           148
+ 17                       LANE_WIDTH     S     2           150
+ 18                         AB_LANES     I     4           152
+ 19                         BA_LANES     I     4           156
+ 20                             MODE     C     4           160
+ 21                          CanWalk     I     4           164
+ 22                        TruckRstr     I     4           168
+==================================================================
+==================================================================
+Number of fields    :22
+Total size          :1060371
+Combined field size :171
+Number of Lines     :6201
+==================================================================

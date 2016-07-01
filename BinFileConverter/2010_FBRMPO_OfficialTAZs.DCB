@@ -1,0 +1,13 @@
+
+101
+"DB_ID",I,1,4,0,4,0,,"","",,"Blank",
+"TAZ",C,5,13,0,13,0,,"","",,"Blank",
+"ModelTAZ",I,18,4,0,8,0,,"","",,"Blank",
+"NAME",C,22,12,0,12,0,,"","",,"Blank",
+"AreaType",I,34,4,0,8,0,,"","",,"Blank",
+"EXT",I,38,4,0,8,0,,"","",,"Blank",
+"centroidcount",I,42,4,0,8,0,,"","",,"Blank",
+"District",I,46,4,0,8,0,,"","",,"Blank",
+"District_Name",C,50,24,0,24,0,,"","",,"Blank",
+"County",C,74,24,0,24,0,,"","",,"Blank",
+"FIPS",I,98,4,0,8,0,,"","",,"Blank",
